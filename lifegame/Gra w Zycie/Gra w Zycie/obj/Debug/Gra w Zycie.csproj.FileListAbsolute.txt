@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\lifegame\Gra w Zycie\Gra w Zycie\obj\Debug\Gra w Zycie.csprojAssemblyReference.cache
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\lifegame\Gra w Zycie\Gra w Zycie\obj\Debug\Gra_w_Zycie.Form1.resources
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\lifegame\Gra w Zycie\Gra w Zycie\obj\Debug\Gra_w_Zycie.Properties.Resources.resources
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\lifegame\Gra w Zycie\Gra w Zycie\obj\Debug\Gra w Zycie.csproj.GenerateResource.cache
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\lifegame\Gra w Zycie\Gra w Zycie\obj\Debug\Gra w Zycie.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\lifegame\Gra w Zycie\Gra w Zycie\bin\Debug\Gra w Zycie.exe.config
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\lifegame\Gra w Zycie\Gra w Zycie\bin\Debug\Gra w Zycie.exe
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\lifegame\Gra w Zycie\Gra w Zycie\bin\Debug\Gra w Zycie.pdb
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\lifegame\Gra w Zycie\Gra w Zycie\obj\Debug\Gra w Zycie.exe
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\lifegame\Gra w Zycie\Gra w Zycie\obj\Debug\Gra w Zycie.pdb
