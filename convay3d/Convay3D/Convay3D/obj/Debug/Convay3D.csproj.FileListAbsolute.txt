@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\convay3d\Convay3D\Convay3D\obj\Debug\Convay3D.csprojAssemblyReference.cache
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\convay3d\Convay3D\Convay3D\obj\Debug\Convay3D.Form1.resources
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\convay3d\Convay3D\Convay3D\obj\Debug\Convay3D.Properties.Resources.resources
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\convay3d\Convay3D\Convay3D\obj\Debug\Convay3D.csproj.GenerateResource.cache
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\convay3d\Convay3D\Convay3D\obj\Debug\Convay3D.csproj.CoreCompileInputs.cache
