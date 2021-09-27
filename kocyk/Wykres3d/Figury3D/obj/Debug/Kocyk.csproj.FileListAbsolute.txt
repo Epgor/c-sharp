@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\kocyk\Wykres3d\Figury3D\bin\Debug\Figury3D.exe.config
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\kocyk\Wykres3d\Figury3D\bin\Debug\Figury3D.exe
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\kocyk\Wykres3d\Figury3D\bin\Debug\Figury3D.pdb
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\kocyk\Wykres3d\Figury3D\obj\Debug\Kocyk.csprojAssemblyReference.cache
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\kocyk\Wykres3d\Figury3D\obj\Debug\Kocyk.GlownaForma.resources
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\kocyk\Wykres3d\Figury3D\obj\Debug\Figury3D.Properties.Resources.resources
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\kocyk\Wykres3d\Figury3D\obj\Debug\Kocyk.csproj.GenerateResource.cache
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\kocyk\Wykres3d\Figury3D\obj\Debug\Kocyk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\kocyk\Wykres3d\Figury3D\obj\Debug\Figury3D.exe
+C:\Users\User\Desktop\szkoła\2r-2-sem\laby\c#\kocyk\Wykres3d\Figury3D\obj\Debug\Figury3D.pdb
